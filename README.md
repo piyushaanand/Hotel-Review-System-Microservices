@@ -56,3 +56,35 @@ This is a scalable **Hotel Review System** built using **Spring Boot Microservic
 
 ## 📁 Folder Structure
 
+Hotel-Review-System-Microservices/
+│
+├── apigateway/
+├── configServer/
+├── serviceRegistory/
+├── hotelService/
+├── ratingService/
+├── userService/
+└── README.md
+
+
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- JDK 17+
+- Maven
+- Git
+- PostgreSQL / MySQL
+- Spring Boot-compatible IDE (IntelliJ / VS Code / Eclipse)
+
+---
+
+### 📦 Steps to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/piyushaanand/Hotel-Review-System-Microservices.git
+   cd Hotel-Review-System-Microservices
+
